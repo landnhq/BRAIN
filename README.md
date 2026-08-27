@@ -107,7 +107,7 @@ Landn is a technology company founded in Accra, Ghana. We build operational inte
 
 **Website:** [landn.io](https://landn.io)  
 **Research:** [landn.io/research](https://landn.io/research)  
-**X:** [@LandnHQ](https://x.com/LandnHQ)
+**X:** [@landnhq](https://x.com/landnhq)
 
 ---
 
