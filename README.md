@@ -2,7 +2,7 @@
 
 **A Landn Research Proposal**  
 Author: Alvin Adamtey Quashie  
-Organisation: Landn, Accra, Ghana  
+Organisation: Landn  
 Published: August 2026  
 Status: Open for academic engagement, citation, and collaborative research
 
@@ -107,7 +107,7 @@ Landn is a technology company founded in Accra, Ghana. We build operational inte
 
 **Website:** [landn.io](https://landn.io)  
 **Research:** [landn.io/research](https://landn.io/research)  
-**X:** [@LandnHQ](https://x.com/landnhq)
+**X:** [@LandnHQ](https://x.com/LandnHQ)
 
 ---
 
